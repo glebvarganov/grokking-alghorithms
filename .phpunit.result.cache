@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":114:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:54:"App\Chapter1\BinarySearch\BinarySearchTest::testSearch";d:0.009;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":267:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:3:{s:54:"App\Chapter1\BinarySearch\BinarySearchTest::testSearch";d:0.009;s:62:"App\Chapter2\SelectionSort\SelectionSortTest::testFindSmallest";d:0.005;s:63:"App\Chapter2\SelectionSort\SelectionSortTest::testSelectionSort";d:0;}}}
